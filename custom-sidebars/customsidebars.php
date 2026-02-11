@@ -8,7 +8,7 @@
  * Author URI:  https://www.webfactoryltd.com/
  * Textdomain:  custom-sidebars
  * License: GPLv2 or later
- * Tested up to: 6.7
+ * Tested up to: 6.9
  */
 
 /*
